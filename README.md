@@ -316,16 +316,4 @@ Planned improvements include:
 
 ---
 
-## Disclaimer
 
-This project was developed for educational purposes during an internship. It demonstrates an end-to-end machine learning workflow using historical process data and is not intended for direct production use without additional validation.
-
----
-
-## Author
-
-**Rahul**
-
-AI/ML Engineer
-
-AI/ML Intern – Tata Steel
